@@ -1,1 +1,1 @@
-# sample-projects
+Past CS221 projects.
